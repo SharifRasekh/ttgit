@@ -1,1 +1,3 @@
 this is note.txt
+
+this is second note.
